@@ -1,0 +1,6 @@
+*inisiasi*
+-menentukan angka
+*proses*
+-jika angka dibagi 2 dan hasilnya 0 maka angka tersebut genap,dan jika angka dibagi 2 dan hasilnya 1 maka angka tersebut ganjil
+*output*
+-cetak angka
